@@ -3,5 +3,6 @@
 
 void main() {
   Helper::SayHello();
+  utils::PrintVec();
   utils::SayGoodbye();
 }
